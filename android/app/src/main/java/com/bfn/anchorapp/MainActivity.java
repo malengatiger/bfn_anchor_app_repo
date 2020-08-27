@@ -1,4 +1,4 @@
-package com.bfn.bfn_anchor_app_repo;
+package com.bfn.anchorapp;
 
 import io.flutter.embedding.android.FlutterActivity;
 
