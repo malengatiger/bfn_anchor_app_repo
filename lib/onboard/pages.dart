@@ -22,7 +22,7 @@ class PageOne extends StatelessWidget {
               child: Opacity(
                 opacity: 0.7,
                 child: Image(
-                  image: AssetImage('download1.jpeg'),
+                  image: AssetImage('assets/images/download1.jpeg'),
                   fit: BoxFit.cover,
                 ),
               ),

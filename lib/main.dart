@@ -1,5 +1,4 @@
 import 'package:bfn_anchor_app_repo/ui/dashboard.dart';
-import 'package:bfnlibrary/data/anchor.dart';
 import 'package:bfnlibrary/util/prefs.dart';
 import 'package:bfnlibrary/util/slide_right.dart';
 import 'package:bfnlibrary/util/theme_bloc.dart';
